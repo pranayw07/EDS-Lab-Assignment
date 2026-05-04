@@ -26,8 +26,8 @@ This repository is created as part of **Lab Assignment No. 2** for the EDS subje
 ## 📂 Repository Contents
 
 ### 🎓 Certifications
-- 📜 [Python Essentials 1](Certificates/python1.pdf)
-- 📜 [Python Essentials 2](Certificates/python2.pdf)
+- 📜 [Python Essentials 1]
+- 📜 [Python Essentials 2]
 
 ## 📌 Conclusion
 This repository contains all required EDS lab assignments, certifications, and demonstration video organized properly for submission.
